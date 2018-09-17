@@ -1,6 +1,6 @@
 ## Galego
 
-Para instalar e xogar esta maravillasolo por ``make`` nunha consola
+Para instalar e xogar esta maravilla tan so por ``make`` nunha consola
 
 ## English
 
